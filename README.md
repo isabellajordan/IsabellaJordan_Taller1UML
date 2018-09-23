@@ -6,17 +6,17 @@ Juego de habilidad y estrategia para máximo dos jugadores , donde los personaje
 
 # Componentes de programación
 - La clase ejecutable "Main" está presente en los dos programas de ejecución de código Java: Eclipse y AndroidStudio
--Debe tener comunicación entre Eclipse y AndroidStuido a través de patrón de comunicación TCP
--Es indispensable el uso de hilos para que la aplicación no se quede congelada en ningún momento
--Se requiere de serialización para el flujo de entrada y salida
--El funcionamiento del control debe estar dado por AndroidStuido junto la comunicación de Eclipse
--El XML es el encargado de la visualización del control a través del móvil.
+- Debe tener comunicación entre Eclipse y AndroidStuido a través de patrón de comunicación TCP
+- Es indispensable el uso de hilos para que la aplicación no se quede congelada en ningún momento
+- Se requiere de serialización para el flujo de entrada y salida
+- El funcionamiento del control debe estar dado por AndroidStuido junto la comunicación de Eclipse
+- El XML es el encargado de la visualización del control a través del móvil.
 
 # Componentes de diseño
--La pantalla no debe ser mayor a 1200 x 700px
--Las instrucciones y la interacción deben ser mostradas de manera clara para el entendimiento del usuario
--Solamente se maneja el mouse para dar Click y cambiar de pantallas
--La pantalla de juego será visualizada en monitor o PC
--La pantalla de control de botones se visualiza en el smartphone del usuario
--En la interfaz de juego estará visible en todo momento: vidas,puntaje y tiempo
--Debe haber visualización de pantalla de resumen
+- La pantalla no debe ser mayor a 1200 x 700px
+- Las instrucciones y la interacción deben ser mostradas de manera clara para el entendimiento del usuario
+- Solamente se maneja el mouse para dar Click y cambiar de pantallas
+- La pantalla de juego será visualizada en monitor o PC
+- La pantalla de control de botones se visualiza en el smartphone del usuario
+- En la interfaz de juego estará visible en todo momento: vidas,puntaje y tiempo
+- Debe haber visualización de pantalla de resumen
